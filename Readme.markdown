@@ -1,0 +1,1 @@
+All insertions operations implemented in the linked list using Java.
